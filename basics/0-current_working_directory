@@ -1,3 +1,4 @@
 #!/bin/bash
 pwd
+$ wc -l file
 
