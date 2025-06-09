@@ -1,2 +1,2 @@
 #!/bin/bash
-cmp -b /etc/passwd /etc/hosts
+sort < /etc/passwd /etc/hosts
